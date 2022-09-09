@@ -1,0 +1,2 @@
+File	Compiler
+notepad.exe	Microsoft Visual C/C++
