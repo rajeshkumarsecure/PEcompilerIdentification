@@ -3,6 +3,13 @@
 # Dependencies:
 # Detect It Easy(DIE): https://github.com/horsicq/DIE-engine/releases
 
+# Version - 0.1
+# Date - 9/Sep/2022
+# This Program identifies the compiler type of PE files using Detect It Easy in a pythonic way. 
+# To speed up the process, program uses multiprocessing to identify compiler type of multiple files at the same time.
+
+__Author__ = "Rajesh Kumar N"
+__version__ = "0.1"
 
 import json
 import multiprocessing as mp

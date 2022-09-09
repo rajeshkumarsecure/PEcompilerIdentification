@@ -1,4 +1,4 @@
-# PE Compile Identification
+# PE Compiler Identification
 
 **Description:** This Program identifies the compiler type of PE files using Detect It Easy in a pythonic way. To speed up the process, program uses multiprocessing to identify compiler type of multiple files at the same time.
 
